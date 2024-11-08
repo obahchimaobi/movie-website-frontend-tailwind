@@ -36,7 +36,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/movie-website-frontend-tailwind.git
+    git clone https://github.com/obahchimaobi/movie-website-frontend-tailwind.git
     cd movie-website-frontend
     ```
 
