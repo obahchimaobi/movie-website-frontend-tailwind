@@ -9,8 +9,6 @@ This project is a movie website frontend built using HTML and Tailwind CSS. It i
 3. [Tech Stack](#tech-stack)
 4. [Getting Started](#getting-started)
 5. [Project Structure](#project-structure)
-6. [Components](#components)
-7. [Custom Styles](#custom-styles)
 8. [Future Improvements](#future-improvements)
 9. [Acknowledgements](#acknowledgements)
 
@@ -38,7 +36,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/movie-website-frontend.git
+    git clone https://github.com/your-username/movie-website-frontend-tailwind.git
     cd movie-website-frontend
     ```
 
